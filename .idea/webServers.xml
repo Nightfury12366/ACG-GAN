@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="81443a8c-0a0d-48a1-b072-c580a392f067" name="FWQ" url="http://10.193.123.137">
+        <fileTransfer rootFolder="/home2/jungle" accessType="SFTP" host="10.193.123.137" port="22" sshConfigId="4b072bce-de68-4043-8848-16d692b3e2f3" sshConfig="jungle@10.193.123.137:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
