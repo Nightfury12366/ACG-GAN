@@ -6,4 +6,5 @@ PyTorch implementation of Attribute Consistency Guided Generative Adversarial Ne
 
 #### The code will be published soon
 ![](
-https://github.com/Nightfury12366/ACG-GAN/blob/main/sky_network.pdf)
+https://github.com/Nightfury12366/ACG-GAN/blob/6dfa5850026eae85d390a1a6a262e17f79e9744c/sky_network.pdf
+)
