@@ -1,6 +1,6 @@
 # ACG-GAN
 
-#### CVM2022
+#### Title
 PyTorch implementation of Attribute Consistency Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation
 
 
